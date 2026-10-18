@@ -52,7 +52,7 @@ public class GameStateManager : MonoBehaviour
 
                 Debug.Log("GameState changed to GamePlay");
                 Time.timeScale = 1f;
-                spiningSpeed.speed = 20f;
+                spiningSpeed.speed = 30f;
                 button.enabled = true;
                 uiManager.ShowGamePlay();
 
