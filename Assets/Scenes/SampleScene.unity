@@ -1610,7 +1610,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 525615166}
         m_TargetAssemblyTypeName: GameStateManager, Assembly-CSharp
-        m_MethodName: TogglePause
+        m_MethodName: Pause
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2254,7 +2254,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 525615166}
         m_TargetAssemblyTypeName: GameStateManager, Assembly-CSharp
-        m_MethodName: TogglePause
+        m_MethodName: Pause
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
